@@ -6,10 +6,12 @@
 This Governance, Risk Management, and Compliance (GRC) Policy sets out the principles, responsibilities, and procedures for ensuring effective governance, risk management, and compliance across [Company Name] and its associated business units. This policy applies to all employees, contractors, vendors, and stakeholders.
 
 The purpose of this GRC policy is to:
-•	Ensure proper governance structures are in place.
-•	Identify, assess, mitigate, and monitor risks.
-•	Ensure compliance with applicable laws, regulations, and internal policies.
-2. Governance
+
+- Ensure proper governance structures are in place.
+- Identify, assess, mitigate, and monitor risks.
+- Ensure compliance with applicable laws, regulations, and internal policies.
+
+<b>2. Governance</b>
 2.1 Corporate Governance
 Corporate governance defines the relationship between the management, board of directors, shareholders, and other stakeholders. The company is committed to transparency, accountability, and ethical business conduct.
 •	Board Responsibilities: The board of directors will provide oversight and direction, ensuring strategic alignment with the company’s mission and values.
