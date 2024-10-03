@@ -11,39 +11,58 @@ The purpose of this GRC policy is to:
 - Identify, assess, mitigate, and monitor risks.
 - Ensure compliance with applicable laws, regulations, and internal policies.
 
-<b>2. Governance</b>
-2.1 Corporate Governance
+<h3>2. Governance</h3>
+
+<b>2.1 Corporate Governance</b>
+
 Corporate governance defines the relationship between the management, board of directors, shareholders, and other stakeholders. The company is committed to transparency, accountability, and ethical business conduct.
-•	Board Responsibilities: The board of directors will provide oversight and direction, ensuring strategic alignment with the company’s mission and values.
-•	Management Responsibilities: Management will be responsible for implementing strategic goals, executing day-to-day operations, and ensuring the GRC policies are followed.
-•	Shareholder Engagement: Shareholders are entitled to transparent information about the business’s financial and operational performance and have a say in significant business decisions.
-2.2 Governance Structure
-•	Board of Directors: The ultimate governing body responsible for oversight.
-•	Executive Team: Responsible for operational decision-making and policy enforcement.
-•	GRC Committee: A specialized team that includes members of the board, management, and external experts tasked with monitoring compliance and risks.
-2.3 Ethics and Conduct
+
+- Board Responsibilities: The board of directors will provide oversight and direction, ensuring strategic alignment with the company’s mission and values.
+- Management Responsibilities: Management will be responsible for implementing strategic goals, executing day-to-day operations, and ensuring the GRC policies are followed.
+- Shareholder Engagement: Shareholders are entitled to transparent information about the business’s financial and operational performance and have a say in significant business decisions.
+
+<b>2.2 Governance Structure</b>
+
+- Board of Directors: The ultimate governing body responsible for oversight.
+- Executive Team: Responsible for operational decision-making and policy enforcement.
+- GRC Committee: A specialized team that includes members of the board, management, and external experts tasked with monitoring compliance and risks.
+
+<b>2.3 Ethics and Conduct</b>
+
 The company is committed to high ethical standards in all business operations.
-•	Code of Ethics: All employees and partners must adhere to a code of ethics that ensures honesty, transparency, respect, and integrity.
-•	Conflicts of Interest: Employees must disclose any potential conflicts of interest and seek guidance on how to manage them appropriately.
-3. Risk Management
-3.1 Risk Management Framework
+
+- Code of Ethics: All employees and partners must adhere to a code of ethics that ensures honesty, transparency, respect, and integrity.
+- Conflicts of Interest: Employees must disclose any potential conflicts of interest and seek guidance on how to manage them appropriately.
+
+<h3>3. Risk Management</h3>
+
+<b>3.1 Risk Management Framework</b>
+
 Risk management ensures that all potential risks to the business are identified, assessed, mitigated, and monitored. The risk management framework includes:
-•	Risk Identification: Identify internal and external risks across financial, operational, technological, regulatory, and reputational areas.
-•	Risk Assessment: Evaluate the likelihood and impact of each identified risk using a consistent rating scale (e.g., high, medium, low).
-•	Risk Mitigation: Develop and implement measures to minimize or eliminate the identified risks. These include risk transfer (insurance), risk avoidance, risk reduction, and risk acceptance.
-•	Risk Monitoring: Continuously monitor risks and adjust mitigation strategies as necessary.
-3.2 Types of Risks
-•	Operational Risks: Risks from inadequate internal processes, systems, or human factors.
-•	Financial Risks: Risks associated with cash flow, investments, and financial health.
-•	Compliance Risks: Failure to comply with laws and regulations, resulting in fines or legal actions.
-•	Reputational Risks: Actions or events that could harm the company’s public image.
-•	Technological Risks: Cybersecurity threats, data breaches, and software failures.
-3.3 Business Continuity and Disaster Recovery
+
+- Risk Identification: Identify internal and external risks across financial, operational, technological, regulatory, and reputational areas.
+- Risk Assessment: Evaluate the likelihood and impact of each identified risk using a consistent rating scale (e.g., high, medium, low).
+- Risk Mitigation: Develop and implement measures to minimize or eliminate the identified risks. These include risk transfer (insurance), risk avoidance, risk reduction, and risk acceptance.
+- Risk Monitoring: Continuously monitor risks and adjust mitigation strategies as necessary.
+
+<b>3.2 Types of Risks</b>
+
+- Operational Risks: Risks from inadequate internal processes, systems, or human factors.
+- Financial Risks: Risks associated with cash flow, investments, and financial health.
+- Compliance Risks: Failure to comply with laws and regulations, resulting in fines or legal actions.
+- Reputational Risks: Actions or events that could harm the company’s public image.
+- Technological Risks: Cybersecurity threats, data breaches, and software failures.
+
+<b>3.3 Business Continuity and Disaster Recovery</b>
+
 The company will maintain a business continuity and disaster recovery plan to mitigate disruptions caused by unforeseen events, such as natural disasters or system failures. This plan will ensure:
-•	Data Backup: Regular backups and secure storage of critical business information.
-•	Contingency Planning: Identification of essential functions and personnel responsible for maintaining continuity during a crisis.
-•	Emergency Response: Defined protocols for responding to emergencies, including communication strategies and resource allocation.
-4. Compliance
+
+- Data Backup: Regular backups and secure storage of critical business information.
+- Contingency Planning: Identification of essential functions and personnel responsible for maintaining continuity during a crisis.
+- Emergency Response: Defined protocols for responding to emergencies, including communication strategies and resource allocation.
+
+<h3>4. Compliance</h3>
+
 4.1 Regulatory Compliance
 The company is committed to full compliance with all applicable laws, regulations, and industry standards, including:
 •	Financial Reporting: Accurate and transparent financial reporting in accordance with generally accepted accounting principles (GAAP).
