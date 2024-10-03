@@ -126,5 +126,7 @@ This GRC policy will be reviewed annually by the GRC Committee and approved by t
 ________________________________________
 
 Effective Date: [Insert Date]
+
 Approved by: [Insert Name and Title]
+
 Review Date: [Insert Date]
