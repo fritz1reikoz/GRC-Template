@@ -1,8 +1,10 @@
 <img width="811" alt="detail_what-is-grc" src="https://github.com/user-attachments/assets/5953e7ca-0c26-4c1f-9444-fdd6ab578759">
 
 <h1>Governance, Risk Management, and Compliance (GRC) Policy for Small Business</h1>
-1. Introduction
+
+<b>1. Introduction</b>
 This Governance, Risk Management, and Compliance (GRC) Policy sets out the principles, responsibilities, and procedures for ensuring effective governance, risk management, and compliance across [Company Name] and its associated business units. This policy applies to all employees, contractors, vendors, and stakeholders.
+
 The purpose of this GRC policy is to:
 •	Ensure proper governance structures are in place.
 •	Identify, assess, mitigate, and monitor risks.
