@@ -1,4 +1,4 @@
-<img width="811" alt="detail_what-is-grc" src="https://github.com/user-attachments/assets/5953e7ca-0c26-4c1f-9444-fdd6ab578759">
+<center><img width="811" alt="detail_what-is-grc" src="https://github.com/user-attachments/assets/5953e7ca-0c26-4c1f-9444-fdd6ab578759"></center>
 
 <h1>Governance, Risk Management, and Compliance (GRC) Policy for Small Business</h1>
 
@@ -63,42 +63,67 @@ The company will maintain a business continuity and disaster recovery plan to mi
 
 <h3>4. Compliance</h3>
 
-4.1 Regulatory Compliance
+<b>4.1 Regulatory Compliance</b>
+
 The company is committed to full compliance with all applicable laws, regulations, and industry standards, including:
-•	Financial Reporting: Accurate and transparent financial reporting in accordance with generally accepted accounting principles (GAAP).
-•	Data Privacy: Adherence to data protection laws such as the General Data Protection Regulation (GDPR) and other local data privacy laws to protect customer and employee data.
-•	Health and Safety: Compliance with Occupational Safety and Health Administration (OSHA) standards to ensure a safe workplace.
-•	Environmental Laws: Compliance with environmental regulations to minimize the impact of business activities on the environment.
-4.2 Internal Policies and Procedures
+
+- Financial Reporting: Accurate and transparent financial reporting in accordance with generally accepted accounting principles (GAAP).
+- Data Privacy: Adherence to data protection laws such as the General Data Protection Regulation (GDPR) and other local data privacy laws to protect customer and employee data.
+- Health and Safety: Compliance with Occupational Safety and Health Administration (OSHA) standards to ensure a safe workplace.
+- Environmental Laws: Compliance with environmental regulations to minimize the impact of business activities on the environment.
+
+<b>4.2 Internal Policies and Procedures</b>
+
 In addition to external regulations, the company will maintain internal policies governing:
-•	Anti-bribery and Corruption: A zero-tolerance policy towards bribery, corruption, and other unethical business practices.
-•	Whistleblower Policy: Protection for employees who report unethical or illegal activities within the company.
-•	Workplace Harassment: Policies aimed at preventing and addressing workplace harassment, discrimination, and bullying.
-4.3 Training and Awareness
+
+- Anti-bribery and Corruption: A zero-tolerance policy towards bribery, corruption, and other unethical business practices.
+- Whistleblower Policy: Protection for employees who report unethical or illegal activities within the company.
+- Workplace Harassment: Policies aimed at preventing and addressing workplace harassment, discrimination, and bullying.
+
+<b>4.3 Training and Awareness</b>
+
 Employees will receive regular training on compliance obligations and risk management. This training will include:
-•	Legal and Regulatory Updates: Periodic updates on new laws and regulations that impact the business.
-•	Risk Awareness: Ongoing education on the company’s risk management framework and how employees play a role in identifying and mitigating risks.
-•	Code of Conduct: Regular reinforcement of ethical guidelines and expected behavior.
-5. Monitoring and Reporting
-5.1 Monitoring Mechanisms
+
+- Legal and Regulatory Updates: Periodic updates on new laws and regulations that impact the business.
+- Risk Awareness: Ongoing education on the company’s risk management framework and how employees play a role in identifying and mitigating risks.
+- Code of Conduct: Regular reinforcement of ethical guidelines and expected behavior.
+
+<h3>5. Monitoring and Reporting</h3>
+
+<b>5.1 Monitoring Mechanisms</b>
+
 The company will put in place systems and processes to monitor compliance with this GRC policy, including:
-•	Internal Audits: Periodic internal audits to ensure compliance with policies and regulations.
-•	Risk Reviews: Regular risk assessments and reviews by the GRC Committee to ensure risk management measures are effective.
-•	Performance Metrics: Use of key performance indicators (KPIs) to assess the effectiveness of risk mitigation and compliance efforts.
-5.2 Incident Reporting and Investigation
-•	Incident Reporting: All employees are encouraged to report any suspected or actual breaches of policy, legal requirements, or ethical standards.
-•	Investigation: The GRC Committee will investigate reported incidents to determine root causes and implement corrective actions.
-•	Reporting to the Board: The GRC Committee will provide regular reports to the board of directors on the status of governance, risk management, and compliance activities.
-6. Enforcement and Accountability
-6.1 Accountability
+
+- Internal Audits: Periodic internal audits to ensure compliance with policies and regulations.
+- Risk Reviews: Regular risk assessments and reviews by the GRC Committee to ensure risk management measures are effective.
+- Performance Metrics: Use of key performance indicators (KPIs) to assess the effectiveness of risk mitigation and compliance efforts.
+
+<b>5.2 Incident Reporting and Investigation</b>
+
+- Incident Reporting: All employees are encouraged to report any suspected or actual breaches of policy, legal requirements, or ethical standards.
+- Investigation: The GRC Committee will investigate reported incidents to determine root causes and implement corrective actions.
+- Reporting to the Board: The GRC Committee will provide regular reports to the board of directors on the status of governance, risk management, and compliance activities.
+
+<h3>6. Enforcement and Accountability</h3>
+
+<b>6.1 Accountability</b>
+
 All employees, including senior management, are accountable for adhering to this policy. Failure to comply may result in disciplinary actions, including termination.
-6.2 Escalation Procedures
+
+<b>6.2 Escalation Procedures</b>
+
 If a breach or risk event occurs, it should be escalated to the appropriate level of management based on the severity of the issue. Serious breaches should be immediately escalated to the board of directors and, if required, to relevant regulatory authorities.
-6.3 Continuous Improvement
+
+<b>6.3 Continuous Improvement</b>
+
 The company is committed to continuous improvement in its governance, risk management, and compliance efforts. This includes regular reviews of the GRC policy and framework to ensure they remain effective and up-to-date with evolving risks and regulations.
-7. Review and Approval
+
+<h3>7. Review and Approval</h3>
+
 This GRC policy will be reviewed annually by the GRC Committee and approved by the board of directors. Amendments to the policy may be made as necessary to adapt to changes in the business environment, legal requirements, and best practices.
+
 ________________________________________
+
 Effective Date: [Insert Date]
 Approved by: [Insert Name and Title]
 Review Date: [Insert Date]
